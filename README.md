@@ -2,7 +2,7 @@
 
 Purge css and obfuscated javascript files
 
-<img src="https://github.com/srinivastamada/angular-post-build/blob/master/screenshot.png" width="200" alt="Angular Post Processing ">
+<img src="https://github.com/srinivastamada/angular-post-build/blob/master/sceenshot.png" width="200" alt="Angular Post Processing ">
 
 ## Development server
 
