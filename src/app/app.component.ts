@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-post-css';
+  a = 1;
+
+  action(){
+   this.a = this.a + 1;
+  }
 }
